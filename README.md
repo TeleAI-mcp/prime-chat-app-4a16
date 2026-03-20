@@ -1,2 +1,3 @@
-# prime-chat-app-4a16
-Automated issue comment bot repository
+# Prime Chat App 4A16
+
+Automated issue comment bot repository.
